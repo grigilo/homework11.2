@@ -1,8 +1,3 @@
-def upper_line(data):
-    """upper"""
-    return data.upper()
-
-
-def up_str(data):
-    """up first"""
-    return data.title()
+def love_sky_pro():
+    """comments"""
+    print("i love SKY pro")
